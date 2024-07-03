@@ -11,6 +11,12 @@ The Excel file ("TestCase_evaly.xlsx") contains detailed test cases,
 
 ## **Including:**
 
+1st Page:
+
+Mind Mapping
+
+2nd Page:
+
 Serial
 
 Module	
@@ -30,6 +36,9 @@ Test Data
 Reproducing Steps
 	
 Bug Screen Shot 
+
+## **Mind Mapping Tool:**
+ Xmind
 	
 Proyority Lavel
 	
