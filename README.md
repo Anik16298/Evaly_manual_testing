@@ -11,11 +11,12 @@ The Excel file ("TestCase_evaly.xlsx") contains detailed test cases,
 
 ## **Including:**
 
-##1st Page:
+<<<1st Page>>>
 
 Mind Mapping
+<img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/07a98375bcadbb48de0f2d7dedbd2ac267cec1c8/Evaly.png">
 
-##2nd Page:
+<<<2nd Page>>>
 
 Serial
 
@@ -42,6 +43,7 @@ Proyority Lavel
 Final Status
 	
 Remarks	
+<img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/07a98375bcadbb48de0f2d7dedbd2ac267cec1c8/EMT.png">
 
 ## **Mind Mapping Tool:**
 
