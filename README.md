@@ -31,7 +31,7 @@ Reproducing Steps
 	
 Bug Screen Shot 
 	
-Dev Comments
+Proyority Lavel
 	
 Final Status
 	
