@@ -15,11 +15,11 @@ The Excel file ("TestCase_evaly.xlsx") contains detailed test cases,
 
 Mind Mapping
 
-<img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/07a98375bcadbb48de0f2d7dedbd2ac267cec1c8/Evaly.png">
-
 ## **Mind Mapping Tool:**
 
  Xmind
+
+<img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/07a98375bcadbb48de0f2d7dedbd2ac267cec1c8/Evaly.png">
 
 <<<2nd Page>>>
 
