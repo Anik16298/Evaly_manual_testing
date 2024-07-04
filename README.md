@@ -50,7 +50,9 @@ Final Status
 Remarks	
 
 
-<img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/07a98375bcadbb48de0f2d7dedbd2ac267cec1c8/EMT.png">
+<img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/5b3182c911cb69a35b17f19d8289b941dcfd69b2/EMT.png">
+
+
 
 <<<3rd Page>>>
 
