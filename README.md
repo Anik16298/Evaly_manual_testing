@@ -12,8 +12,11 @@ The Excel file ("TestCase_evaly.xlsx") contains detailed test cases,
 ## **Including:**
 
 <<<1st Page>>>
-
 Mind Mapping
+
+## **Mind Mapping Tool:**
+
+ Xmind
 
 
 <img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/07a98375bcadbb48de0f2d7dedbd2ac267cec1c8/Evaly.png">
@@ -49,6 +52,11 @@ Remarks
 
 <img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/07a98375bcadbb48de0f2d7dedbd2ac267cec1c8/EMT.png">
 
-## **Mind Mapping Tool:**
+<<<3rd Page>>>
 
- Xmind
+Test Summery & Improvemt Scopes
+
+<img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/ea5eb2e36bb956597105fad5ab442e162a51a714/ISC.png">
+
+
+
