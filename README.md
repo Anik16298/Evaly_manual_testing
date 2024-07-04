@@ -1,4 +1,4 @@
-# **Evaly (https://evaly.com.bd/) Test Cases**
+# **Evaly Test Cases**
 ## **Project Overview:**
 
 Evaly (https://evaly.com.bd/) is a leading Bangladeshi e-commerce platform  provides a wide range of food, grocery, electronics, clothing, and other similar products, enabling customers to access all products on one platform and quickest home delivery system.
