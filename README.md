@@ -15,7 +15,7 @@ The Excel file ("TestCase_evaly.xlsx") contains detailed test cases,
 
 Mind Mapping
 
-## **Mind Mapping Tool:**
+## **Mind Mapping Tool**
 
  Xmind
 
