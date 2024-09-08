@@ -50,6 +50,7 @@ Final Status
 	
 Remarks	
 
+## **Manual Testing Overview **
 
 <img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/5b3182c911cb69a35b17f19d8289b941dcfd69b2/EMT.png">
 
@@ -57,7 +58,7 @@ Remarks
 
 <<<3rd Page>>>
 
-Test Summery & Improvemt Scopes
+## **Test Summery & Improvemt Scopes**
 
 <img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/ea5eb2e36bb956597105fad5ab442e162a51a714/ISC.png">
 
