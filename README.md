@@ -5,9 +5,9 @@ Evaly (https://evaly.com.bd/) is a leading Bangladeshi e-commerce platform  prov
 
 ## **Testing Tools:**
 
-Mind Mapping Tool : #**Xmind**
+Mind Mapping Tool : **Xmind**
 
-Test Case Management : #**Microsoft Excel** (For detailed test case creation and management.)
+Test Case Management : **Microsoft Excel** (For detailed test case creation and management.)
 
 The Excel file ("TestCase_evaly.xlsx") contains detailed test cases, 
 
