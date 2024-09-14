@@ -52,7 +52,7 @@ Remarks
 
 ## **Manual Testing Overview**
 
-<img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/5b3182c911cb69a35b17f19d8289b941dcfd69b2/EMT.png">
+<img width="675" alt="3" src="https://github.com/Anik16298/Evaly_manual_testing/blob/4897e60e35e475241272561c3bfe75d5be595a92/EMT.png">
 
 
 
