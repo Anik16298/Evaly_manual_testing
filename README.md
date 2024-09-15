@@ -20,7 +20,7 @@ Mind Mapping
 ## **Mind Mapping**
 
 
-<img width="675" alt="3" src="https://github.com/Anik16298/evaly_manual_testing/blob/07a98375bcadbb48de0f2d7dedbd2ac267cec1c8/Evaly.png">
+<img width="675" alt="3" src="https://github.com/Anik16298/Evaly_manual_testing/blob/2ead40ce6fe0b33ffdef9b876f3bd9538934eb1f/Evaly.png">
 
 <<<2nd Page>>>
 
