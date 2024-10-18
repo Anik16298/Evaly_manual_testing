@@ -1,4 +1,6 @@
 # **Evaly Test Cases**
+
+Google Drive Link: https://docs.google.com/spreadsheets/d/1g7iIBAgQ-ly2Ae5VG0lgAEynSQj_T63R/edit?usp=sharing&ouid=102409645167363931924&rtpof=true&sd=true
 ## **Project Overview:**
 
 Evaly (https://evaly.com.bd/) is a leading Bangladeshi e-commerce platform  provides a wide range of food, grocery, electronics, clothing, and other similar products, enabling customers to access all products on one platform and quickest home delivery system.
